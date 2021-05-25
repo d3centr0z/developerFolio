@@ -7,7 +7,7 @@
 import emoji from "react-easy-emoji";
 
 const illustration = {
-  animated: false // set to false to use static SVG
+  animated: true // set to false to use static SVG
 };
 
 const greeting = {
@@ -17,8 +17,8 @@ const greeting = {
     "A friendly & curious human being & Cybersecurity engineer. Fascinated about #Web3 #Ethereum #Blockchain #DAOs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
-  displayGreeting: false // Set false to hide this section, defaults to true
+    "https://github.com/d3centr0z",
+  displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
