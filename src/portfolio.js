@@ -11,10 +11,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Francis",
-  title: "Hi all, I'm Francis",
+  username: "d3centr0z",
+  title: "Hello, human!",
   subTitle: emoji(
-    "A friendly & curious human being & Cybersecurity engineer. Fascinated about #Web3 #Ethereum #Blockchain #DAOs."
+    "Cybersecurity Engineer - Human Rights, Mindfulness, Open Source & Data Privacy. Code is law. #Budling a better future for all on #Ethereum and #Web3."
   ),
   resumeLink:
     "https://github.com/d3centr0z",
